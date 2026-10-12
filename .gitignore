@@ -1,0 +1,15 @@
+# Ignore raw screenshots (per user instruction)
+*.jpeg
+*.jpg
+*.png
+
+# Ignore duplicate deployment folder
+deploy/
+
+# Ignore Python runtime files
+__pycache__/
+*.pyc
+
+# Temp / Scratch
+.tempmediaStorage/
+scratch/
